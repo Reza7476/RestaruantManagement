@@ -1,0 +1,15 @@
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\bin\Debug\net6.0\RestaruantManagement.exe
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\bin\Debug\net6.0\RestaruantManagement.deps.json
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\bin\Debug\net6.0\RestaruantManagement.runtimeconfig.json
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\bin\Debug\net6.0\RestaruantManagement.dll
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\bin\Debug\net6.0\RestaruantManagement.pdb
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\RestaruantManagement.csproj.AssemblyReference.cache
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\RestaruantManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\RestaruantManagement.AssemblyInfoInputs.cache
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\RestaruantManagement.AssemblyInfo.cs
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\RestaruantManagement.csproj.CoreCompileInputs.cache
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\RestaruantManagement.dll
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\refint\RestaruantManagement.dll
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\RestaruantManagement.pdb
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\RestaruantManagement.genruntimeconfig.cache
+F:\TaaVClass\GotHubRepositoryOOP\9-RestaruantManagement\RestaruantManagement\RestaruantManagement\obj\Debug\net6.0\ref\RestaruantManagement.dll
